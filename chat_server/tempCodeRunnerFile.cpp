@@ -1,0 +1,1 @@
+struct sockaddr_un aaa,aaaa;
